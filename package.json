@@ -1,0 +1,10 @@
+{
+  "name": "nextjs-scan",
+  "version": "1.0.0",
+  "description": "Simple Next.js security scanner",
+  "main": "scan.js",
+  "bin": {
+    "nextjs-scan": "./scan.js"
+  },
+  "license": "MIT"
+}
